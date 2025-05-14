@@ -1,1 +1,1 @@
-"My new file content" 
+"Some new content" 
