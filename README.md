@@ -40,7 +40,7 @@
 
 ## ⚙️ อุปกรณ์ที่ใช้
 
-- Arduino UNO / ESP32 / Microcontroller อื่น ๆ  
+- STM 32 
 - IR Receiver และ Remote  
 - Ultrasonic Sensor (HC-SR04)  
 - Motor Driver (L298N หรือเทียบเท่า)  
